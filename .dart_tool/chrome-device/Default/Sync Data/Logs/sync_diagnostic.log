@@ -1,0 +1,131 @@
+2024-07-30T22:43:11.211Z P:13076 T:12584] SyncServiceImpl::Initialize,SyncState after the account was authenticated: FeatureNotRequested
+2024-07-30T22:43:21.332Z P:13076 T:6052] SyncManagerImpl::ConfigureSyncer,Types to download: Encryption Keys
+2024-07-30T22:53:15.863Z P:9684 T:22392] SyncServiceImpl::Initialize,SyncState after the account was authenticated: FeatureNotRequested
+2024-07-30T22:53:25.963Z P:9684 T:2360] SyncManagerImpl::ConfigureSyncer,Types to download: Encryption Keys
+2024-07-30T22:53:26.371Z P:9684 T:22392] ModelLoadManager::Configure,Desired: Device Info, User Consents, Send Tab To Self, Encryption Keys preferred: Device Info, User Consents, Send Tab To Self, Encryption Keys
+2024-07-30T22:53:26.371Z P:9684 T:22392] ModelLoadManager::LoadDesiredTypes,Desired: Device Info, User Consents, Send Tab To Self
+2024-07-30T22:53:26.372Z P:9684 T:22392] ModelLoadManager::ModelLoadCallback,Load Device Info: success
+2024-07-30T22:53:26.372Z P:9684 T:22392] ModelLoadManager::ModelLoadCallback,Load User Consents: success
+2024-07-30T22:53:26.372Z P:9684 T:22392] ModelLoadManager::ModelLoadCallback,Load Send Tab To Self: success
+2024-07-30T22:53:26.372Z P:9684 T:22392] ModelLoadManager::NotifyDelegateIfReadyForConfigure,All data types are ready for configuration
+2024-07-30T22:53:26.372Z P:9684 T:22392] DataTypeManagerImpl::OnAllDataTypesReadyForConfigure,All data types are ready for configuration
+2024-07-30T22:53:26.372Z P:9684 T:22392] DataTypeManagerImpl::StartNextConfiguration,Size: 3 front: Encryption Keys
+2024-07-30T22:53:26.372Z P:9684 T:22392] DataTypeManagerImpl::PrepareConfigureParams,Add types: 
+2024-07-30T22:53:27.041Z P:9684 T:12268] SyncManagerImpl::ConfigureSyncer,Types to download: 
+2024-07-30T22:53:27.042Z P:9684 T:22392] DataTypeManagerImpl::ConfigurationCompleted,Reconfigure
+2024-07-30T22:53:27.042Z P:9684 T:22392] ModelLoadManager::Configure,Desired: Device Info, User Consents, Send Tab To Self, Encryption Keys preferred: Device Info, User Consents, Send Tab To Self, Encryption Keys
+2024-07-30T22:53:27.042Z P:9684 T:22392] ModelLoadManager::LoadDesiredTypes,Desired: Device Info, User Consents, Send Tab To Self
+2024-07-30T22:53:27.042Z P:9684 T:22392] ModelLoadManager::NotifyDelegateIfReadyForConfigure,All data types are ready for configuration
+2024-07-30T22:53:27.042Z P:9684 T:22392] DataTypeManagerImpl::OnAllDataTypesReadyForConfigure,All data types are ready for configuration
+2024-07-30T22:53:27.042Z P:9684 T:22392] DataTypeManagerImpl::StartNextConfiguration,Size: 3 front: Encryption Keys
+2024-07-30T22:53:27.042Z P:9684 T:22392] DataTypeManagerImpl::PrepareConfigureParams,Add types: 
+2024-07-30T22:53:27.042Z P:9684 T:12268] SyncManagerImpl::ConfigureSyncer,Types to download: 
+2024-07-30T22:53:27.043Z P:9684 T:22392] DataTypeManagerImpl::ConfigurationCompleted,Left: 2
+2024-07-30T22:53:27.043Z P:9684 T:22392] DataTypeManagerImpl::StartNextConfiguration,Size: 2 front: Device Info, Send Tab To Self
+2024-07-30T22:53:27.043Z P:9684 T:22392] DataTypeManagerImpl::PrepareConfigureParams,Add types: 
+2024-07-30T22:53:27.043Z P:9684 T:12268] SyncManagerImpl::ConfigureSyncer,Types to download: 
+2024-07-30T22:53:27.043Z P:9684 T:22392] DataTypeManagerImpl::ConfigurationCompleted,Left: 1
+2024-07-30T22:53:27.043Z P:9684 T:22392] DataTypeManagerImpl::StartNextConfiguration,Size: 1 front: User Consents
+2024-07-30T22:53:27.043Z P:9684 T:22392] DataTypeManagerImpl::PrepareConfigureParams,Add types: 
+2024-07-30T22:53:27.043Z P:9684 T:12268] SyncManagerImpl::ConfigureSyncer,Types to download: 
+2024-07-30T22:53:27.043Z P:9684 T:22392] DataTypeManagerImpl::ConfigurationCompleted,Left: 0
+2024-07-30T22:53:27.525Z P:9684 T:12268] Commit::PostAndProcessResponse,Device Info: Success
+2024-07-31T00:43:24.564Z P:7420 T:1880] SyncServiceImpl::Initialize,SyncState after the account was authenticated: FeatureNotRequested
+2024-07-31T00:43:34.651Z P:7420 T:20104] SyncManagerImpl::ConfigureSyncer,Types to download: Encryption Keys
+2024-07-31T00:43:35.346Z P:7420 T:1880] ModelLoadManager::Configure,Desired: Device Info, User Consents, Send Tab To Self, Encryption Keys preferred: Device Info, User Consents, Send Tab To Self, Encryption Keys
+2024-07-31T00:43:35.346Z P:7420 T:1880] ModelLoadManager::LoadDesiredTypes,Desired: Device Info, User Consents, Send Tab To Self
+2024-07-31T00:43:35.347Z P:7420 T:1880] ModelLoadManager::ModelLoadCallback,Load Device Info: success
+2024-07-31T00:43:35.347Z P:7420 T:1880] ModelLoadManager::ModelLoadCallback,Load User Consents: success
+2024-07-31T00:43:35.347Z P:7420 T:1880] ModelLoadManager::ModelLoadCallback,Load Send Tab To Self: success
+2024-07-31T00:43:35.347Z P:7420 T:1880] ModelLoadManager::NotifyDelegateIfReadyForConfigure,All data types are ready for configuration
+2024-07-31T00:43:35.347Z P:7420 T:1880] DataTypeManagerImpl::OnAllDataTypesReadyForConfigure,All data types are ready for configuration
+2024-07-31T00:43:35.347Z P:7420 T:1880] DataTypeManagerImpl::StartNextConfiguration,Size: 3 front: Encryption Keys
+2024-07-31T00:43:35.347Z P:7420 T:1880] DataTypeManagerImpl::PrepareConfigureParams,Add types: 
+2024-07-31T00:43:35.991Z P:7420 T:16212] SyncManagerImpl::ConfigureSyncer,Types to download: 
+2024-07-31T00:43:35.992Z P:7420 T:1880] DataTypeManagerImpl::ConfigurationCompleted,Reconfigure
+2024-07-31T00:43:35.992Z P:7420 T:1880] ModelLoadManager::Configure,Desired: Device Info, User Consents, Send Tab To Self, Encryption Keys preferred: Device Info, User Consents, Send Tab To Self, Encryption Keys
+2024-07-31T00:43:35.992Z P:7420 T:1880] ModelLoadManager::LoadDesiredTypes,Desired: Device Info, User Consents, Send Tab To Self
+2024-07-31T00:43:35.992Z P:7420 T:1880] ModelLoadManager::NotifyDelegateIfReadyForConfigure,All data types are ready for configuration
+2024-07-31T00:43:35.992Z P:7420 T:1880] DataTypeManagerImpl::OnAllDataTypesReadyForConfigure,All data types are ready for configuration
+2024-07-31T00:43:35.992Z P:7420 T:1880] DataTypeManagerImpl::StartNextConfiguration,Size: 3 front: Encryption Keys
+2024-07-31T00:43:35.992Z P:7420 T:1880] DataTypeManagerImpl::PrepareConfigureParams,Add types: 
+2024-07-31T00:43:35.992Z P:7420 T:16212] SyncManagerImpl::ConfigureSyncer,Types to download: 
+2024-07-31T00:43:35.992Z P:7420 T:1880] DataTypeManagerImpl::ConfigurationCompleted,Left: 2
+2024-07-31T00:43:35.992Z P:7420 T:1880] DataTypeManagerImpl::StartNextConfiguration,Size: 2 front: Device Info, Send Tab To Self
+2024-07-31T00:43:35.992Z P:7420 T:1880] DataTypeManagerImpl::PrepareConfigureParams,Add types: 
+2024-07-31T00:43:35.992Z P:7420 T:16212] SyncManagerImpl::ConfigureSyncer,Types to download: 
+2024-07-31T00:43:35.993Z P:7420 T:1880] DataTypeManagerImpl::ConfigurationCompleted,Left: 1
+2024-07-31T00:43:35.993Z P:7420 T:1880] DataTypeManagerImpl::StartNextConfiguration,Size: 1 front: User Consents
+2024-07-31T00:43:35.993Z P:7420 T:1880] DataTypeManagerImpl::PrepareConfigureParams,Add types: 
+2024-07-31T00:43:35.993Z P:7420 T:16212] SyncManagerImpl::ConfigureSyncer,Types to download: 
+2024-07-31T00:43:35.993Z P:7420 T:1880] DataTypeManagerImpl::ConfigurationCompleted,Left: 0
+2024-08-15T06:41:46.302Z P:19868 T:20636] SyncServiceImpl::Initialize,SyncState after the account was authenticated: FeatureNotRequested
+2024-08-15T06:41:56.452Z P:19868 T:13300] SyncManagerImpl::ConfigureSyncer,Types to download: Encryption Keys
+2024-08-15T06:41:56.883Z P:19868 T:20636] ModelLoadManager::Configure,Desired: Device Info, User Consents, Send Tab To Self, Encryption Keys preferred: Device Info, User Consents, Send Tab To Self, Encryption Keys
+2024-08-15T06:41:56.883Z P:19868 T:20636] ModelLoadManager::LoadDesiredTypes,Desired: Device Info, User Consents, Send Tab To Self
+2024-08-15T06:41:56.884Z P:19868 T:20636] ModelLoadManager::ModelLoadCallback,Load Device Info: success
+2024-08-15T06:41:56.884Z P:19868 T:20636] ModelLoadManager::ModelLoadCallback,Load User Consents: success
+2024-08-15T06:41:56.884Z P:19868 T:20636] ModelLoadManager::ModelLoadCallback,Load Send Tab To Self: success
+2024-08-15T06:41:56.884Z P:19868 T:20636] ModelLoadManager::NotifyDelegateIfReadyForConfigure,All data types are ready for configuration
+2024-08-15T06:41:56.884Z P:19868 T:20636] DataTypeManagerImpl::OnAllDataTypesReadyForConfigure,All data types are ready for configuration
+2024-08-15T06:41:56.884Z P:19868 T:20636] DataTypeManagerImpl::StartNextConfiguration,Size: 3 front: Encryption Keys
+2024-08-15T06:41:56.884Z P:19868 T:20636] DataTypeManagerImpl::PrepareConfigureParams,Add types: 
+2024-08-15T06:41:57.370Z P:19868 T:20372] SyncManagerImpl::ConfigureSyncer,Types to download: 
+2024-08-15T06:41:57.372Z P:19868 T:20636] DataTypeManagerImpl::ConfigurationCompleted,Reconfigure
+2024-08-15T06:41:57.372Z P:19868 T:20636] ModelLoadManager::Configure,Desired: Device Info, User Consents, Send Tab To Self, Encryption Keys preferred: Device Info, User Consents, Send Tab To Self, Encryption Keys
+2024-08-15T06:41:57.372Z P:19868 T:20636] ModelLoadManager::LoadDesiredTypes,Desired: Device Info, User Consents, Send Tab To Self
+2024-08-15T06:41:57.372Z P:19868 T:20636] ModelLoadManager::NotifyDelegateIfReadyForConfigure,All data types are ready for configuration
+2024-08-15T06:41:57.372Z P:19868 T:20636] DataTypeManagerImpl::OnAllDataTypesReadyForConfigure,All data types are ready for configuration
+2024-08-15T06:41:57.372Z P:19868 T:20636] DataTypeManagerImpl::StartNextConfiguration,Size: 3 front: Encryption Keys
+2024-08-15T06:41:57.372Z P:19868 T:20636] DataTypeManagerImpl::PrepareConfigureParams,Add types: 
+2024-08-15T06:41:57.372Z P:19868 T:20372] SyncManagerImpl::ConfigureSyncer,Types to download: 
+2024-08-15T06:41:57.372Z P:19868 T:20636] DataTypeManagerImpl::ConfigurationCompleted,Left: 2
+2024-08-15T06:41:57.372Z P:19868 T:20636] DataTypeManagerImpl::StartNextConfiguration,Size: 2 front: Device Info, Send Tab To Self
+2024-08-15T06:41:57.372Z P:19868 T:20636] DataTypeManagerImpl::PrepareConfigureParams,Add types: 
+2024-08-15T06:41:57.372Z P:19868 T:20372] SyncManagerImpl::ConfigureSyncer,Types to download: 
+2024-08-15T06:41:57.372Z P:19868 T:20636] DataTypeManagerImpl::ConfigurationCompleted,Left: 1
+2024-08-15T06:41:57.373Z P:19868 T:20636] DataTypeManagerImpl::StartNextConfiguration,Size: 1 front: User Consents
+2024-08-15T06:41:57.373Z P:19868 T:20636] DataTypeManagerImpl::PrepareConfigureParams,Add types: 
+2024-08-15T06:41:57.373Z P:19868 T:20372] SyncManagerImpl::ConfigureSyncer,Types to download: 
+2024-08-15T06:41:57.373Z P:19868 T:20636] DataTypeManagerImpl::ConfigurationCompleted,Left: 0
+2024-08-20T12:57:04.390Z P:13368 T:14288] SyncServiceImpl::Initialize,SyncState after the account was authenticated: NotSignedIn
+2024-08-20T12:57:05.485Z P:13368 T:14684] SyncManagerImpl::ConfigureSyncer,Types to download: Encryption Keys
+2024-08-20T12:57:21.254Z P:13368 T:14288] ModelLoadManager::Configure,Desired: Bookmarks, Preferences, Passwords, Autofill Profiles, Autofill, Extensions, Extension settings, Device Info, User Consents, Send Tab To Self, Web Apps, Collection, Edge E Drop, Edge Hub App Usage, Edge Wallet, Encryption Keys preferred: Bookmarks, Preferences, Passwords, Autofill Profiles, Autofill, Extensions, Extension settings, Device Info, User Consents, Send Tab To Self, Web Apps, Collection, Edge E Drop, Edge Hub App Usage, Edge Wallet, Encryption Keys
+2024-08-20T12:57:21.254Z P:13368 T:14288] ModelLoadManager::LoadDesiredTypes,Desired: Bookmarks, Preferences, Passwords, Autofill Profiles, Autofill, Extensions, Extension settings, Device Info, User Consents, Send Tab To Self, Web Apps, Collection, Edge E Drop, Edge Hub App Usage, Edge Wallet
+2024-08-20T12:57:21.254Z P:13368 T:14288] ModelLoadManager::ModelLoadCallback,Load Bookmarks: success
+2024-08-20T12:57:21.258Z P:13368 T:14288] ModelLoadManager::ModelLoadCallback,Load Preferences: success
+2024-08-20T12:57:21.258Z P:13368 T:14288] ModelLoadManager::ModelLoadCallback,Load Extensions: success
+2024-08-20T12:57:21.258Z P:13368 T:14288] ModelLoadManager::ModelLoadCallback,Load Passwords: success
+2024-08-20T12:57:21.258Z P:13368 T:14288] ModelLoadManager::ModelLoadCallback,Load Device Info: success
+2024-08-20T12:57:21.258Z P:13368 T:14288] ModelLoadManager::ModelLoadCallback,Load Extension settings: success
+2024-08-20T12:57:21.259Z P:13368 T:14288] ModelLoadManager::ModelLoadCallback,Load Autofill Profiles: success
+2024-08-20T12:57:21.259Z P:13368 T:14288] ModelLoadManager::ModelLoadCallback,Load User Consents: success
+2024-08-20T12:57:21.259Z P:13368 T:14288] ModelLoadManager::ModelLoadCallback,Load Autofill: success
+2024-08-20T12:57:21.259Z P:13368 T:14288] ModelLoadManager::ModelLoadCallback,Load Send Tab To Self: success
+2024-08-20T12:57:21.259Z P:13368 T:14288] ModelLoadManager::ModelLoadCallback,Load Web Apps: success
+2024-08-20T12:57:21.259Z P:13368 T:14288] ModelLoadManager::ModelLoadCallback,Load Collection: success
+2024-08-20T12:57:21.259Z P:13368 T:14288] ModelLoadManager::ModelLoadCallback,Load Edge E Drop: success
+2024-08-20T12:57:21.259Z P:13368 T:14288] ModelLoadManager::ModelLoadCallback,Load Edge Hub App Usage: success
+2024-08-20T12:57:21.259Z P:13368 T:14288] ModelLoadManager::ModelLoadCallback,Load Edge Wallet: success
+2024-08-20T12:57:21.259Z P:13368 T:14288] ModelLoadManager::NotifyDelegateIfReadyForConfigure,All data types are ready for configuration
+2024-08-20T12:57:21.259Z P:13368 T:14288] DataTypeManagerImpl::OnAllDataTypesReadyForConfigure,All data types are ready for configuration
+2024-08-20T12:57:21.259Z P:13368 T:14288] DataTypeManagerImpl::StartNextConfiguration,Size: 4 front: Encryption Keys
+2024-08-20T12:57:21.259Z P:13368 T:14288] DataTypeManagerImpl::PrepareConfigureParams,Add types: 
+2024-08-20T12:57:21.259Z P:13368 T:12920] SyncManagerImpl::ConfigureSyncer,Types to download: 
+2024-08-20T12:57:21.267Z P:13368 T:14288] DataTypeManagerImpl::ConfigurationCompleted,Left: 3
+2024-08-20T12:57:21.267Z P:13368 T:14288] DataTypeManagerImpl::StartNextConfiguration,Size: 3 front: Preferences, Passwords, Device Info, Send Tab To Self, Edge E Drop
+2024-08-20T12:57:21.267Z P:13368 T:14288] DataTypeManagerImpl::PrepareConfigureParams,Add types: Preferences, Passwords, Device Info, Send Tab To Self, Edge E Drop, Encryption Keys
+2024-08-20T12:57:21.267Z P:13368 T:12920] SyncManagerImpl::ConfigureSyncer,Types to download: Preferences, Passwords, Device Info, Send Tab To Self, Edge E Drop, Encryption Keys
+2024-08-20T12:57:21.516Z P:13368 T:14288] DataTypeManagerImpl::ConfigurationCompleted,Left: 2
+2024-08-20T12:57:21.516Z P:13368 T:14288] DataTypeManagerImpl::StartNextConfiguration,Size: 2 front: Bookmarks
+2024-08-20T12:57:21.516Z P:13368 T:14288] DataTypeManagerImpl::PrepareConfigureParams,Add types: Bookmarks, Encryption Keys
+2024-08-20T12:57:21.516Z P:13368 T:12920] SyncManagerImpl::ConfigureSyncer,Types to download: Bookmarks, Encryption Keys
+2024-08-20T12:57:21.695Z P:13368 T:14288] DataTypeManagerImpl::ConfigurationCompleted,Left: 1
+2024-08-20T12:57:21.696Z P:13368 T:14288] DataTypeManagerImpl::StartNextConfiguration,Size: 1 front: Autofill Profiles, Autofill, Extensions, Extension settings, User Consents, Web Apps, Collection, Edge Hub App Usage, Edge Wallet
+2024-08-20T12:57:21.696Z P:13368 T:14288] DataTypeManagerImpl::PrepareConfigureParams,Add types: Autofill Profiles, Autofill, Extensions, Extension settings, Web Apps, Collection, Edge Hub App Usage, Edge Wallet, Encryption Keys
+2024-08-20T12:57:21.696Z P:13368 T:12920] SyncManagerImpl::ConfigureSyncer,Types to download: Autofill Profiles, Autofill, Extensions, Extension settings, Web Apps, Collection, Edge Hub App Usage, Edge Wallet, Encryption Keys
+2024-08-20T12:57:22.051Z P:13368 T:14288] DataTypeManagerImpl::ConfigurationCompleted,Left: 0
+2024-08-20T12:57:22.958Z P:13368 T:12920] Commit::PostAndProcessResponse,Preferences: Success
+2024-08-20T12:57:22.958Z P:13368 T:12920] Commit::PostAndProcessResponse,Device Info: Success
+2024-08-20T12:57:22.958Z P:13368 T:12920] Commit::PostAndProcessResponse,User Consents: Success
+2024-08-20T12:58:29.740Z P:13368 T:14288] SyncServiceImpl::ResetEngine,Reason: 0
