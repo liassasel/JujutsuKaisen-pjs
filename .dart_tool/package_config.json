@@ -15,19 +15,19 @@
     },
     {
       "name": "cached_network_image",
-      "rootUri": "file:///C:/Users/Angel/AppData/Local/Pub/Cache/hosted/pub.dev/cached_network_image-3.4.1",
+      "rootUri": "file:///C:/Users/Angel/AppData/Local/Pub/Cache/hosted/pub.dev/cached_network_image-3.3.1",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
     {
       "name": "cached_network_image_platform_interface",
-      "rootUri": "file:///C:/Users/Angel/AppData/Local/Pub/Cache/hosted/pub.dev/cached_network_image_platform_interface-4.1.1",
+      "rootUri": "file:///C:/Users/Angel/AppData/Local/Pub/Cache/hosted/pub.dev/cached_network_image_platform_interface-4.0.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
     {
       "name": "cached_network_image_web",
-      "rootUri": "file:///C:/Users/Angel/AppData/Local/Pub/Cache/hosted/pub.dev/cached_network_image_web-1.3.1",
+      "rootUri": "file:///C:/Users/Angel/AppData/Local/Pub/Cache/hosted/pub.dev/cached_network_image_web-1.2.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -51,9 +51,9 @@
     },
     {
       "name": "crypto",
-      "rootUri": "file:///C:/Users/Angel/AppData/Local/Pub/Cache/hosted/pub.dev/crypto-3.0.5",
+      "rootUri": "file:///C:/Users/Angel/AppData/Local/Pub/Cache/hosted/pub.dev/crypto-3.0.3",
       "packageUri": "lib/",
-      "languageVersion": "3.4"
+      "languageVersion": "2.19"
     },
     {
       "name": "cupertino_icons",
@@ -69,7 +69,7 @@
     },
     {
       "name": "ffi",
-      "rootUri": "file:///C:/Users/Angel/AppData/Local/Pub/Cache/hosted/pub.dev/ffi-2.1.3",
+      "rootUri": "file:///C:/Users/Angel/AppData/Local/Pub/Cache/hosted/pub.dev/ffi-2.1.2",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     },
@@ -93,7 +93,7 @@
     },
     {
       "name": "flutter_cache_manager",
-      "rootUri": "file:///C:/Users/Angel/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_cache_manager-3.4.1",
+      "rootUri": "file:///C:/Users/Angel/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_cache_manager-3.3.3",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -165,9 +165,9 @@
     },
     {
       "name": "octo_image",
-      "rootUri": "file:///C:/Users/Angel/AppData/Local/Pub/Cache/hosted/pub.dev/octo_image-2.1.0",
+      "rootUri": "file:///C:/Users/Angel/AppData/Local/Pub/Cache/hosted/pub.dev/octo_image-2.0.0",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "2.12"
     },
     {
       "name": "path",
@@ -177,13 +177,13 @@
     },
     {
       "name": "path_provider",
-      "rootUri": "file:///C:/Users/Angel/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider-2.1.4",
+      "rootUri": "file:///C:/Users/Angel/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider-2.1.3",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.1"
     },
     {
       "name": "path_provider_android",
-      "rootUri": "file:///C:/Users/Angel/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_android-2.2.10",
+      "rootUri": "file:///C:/Users/Angel/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_android-2.2.7",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
@@ -255,9 +255,9 @@
     },
     {
       "name": "sqflite_common",
-      "rootUri": "file:///C:/Users/Angel/AppData/Local/Pub/Cache/hosted/pub.dev/sqflite_common-2.5.4+2",
+      "rootUri": "file:///C:/Users/Angel/AppData/Local/Pub/Cache/hosted/pub.dev/sqflite_common-2.5.4",
       "packageUri": "lib/",
-      "languageVersion": "3.5"
+      "languageVersion": "3.3"
     },
     {
       "name": "stack_trace",
@@ -279,9 +279,9 @@
     },
     {
       "name": "synchronized",
-      "rootUri": "file:///C:/Users/Angel/AppData/Local/Pub/Cache/hosted/pub.dev/synchronized-3.2.0",
+      "rootUri": "file:///C:/Users/Angel/AppData/Local/Pub/Cache/hosted/pub.dev/synchronized-3.1.0+1",
       "packageUri": "lib/",
-      "languageVersion": "3.5"
+      "languageVersion": "3.0"
     },
     {
       "name": "term_glyph",
@@ -338,7 +338,7 @@
       "languageVersion": "3.4"
     }
   ],
-  "generated": "2024-09-02T07:43:31.754881Z",
+  "generated": "2024-09-07T07:22:13.119092Z",
   "generator": "pub",
   "generatorVersion": "3.5.1",
   "flutterRoot": "file:///C:/Code/flutter",
